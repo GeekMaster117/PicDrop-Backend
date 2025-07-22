@@ -23,6 +23,8 @@
 
 ## How to Host
 
+**Frontend Repository** - https://github.com/GeekMaster117/PicDrop-Frontend
+
 ### Host as container
 Convert the code to a container, and host it in the cloud and on your server.
 
